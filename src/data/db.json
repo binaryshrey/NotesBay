@@ -1,0 +1,88 @@
+{
+    "appName" : "NotesBay",
+    "appLink": "https://play.google.com/store/apps/details?id=dev.shreyansh.notesBay",
+    "description" : "Notes • Todos • AI Writing Assistant",
+    "tagline" : "Powered By Your Ideas",
+    "privacy" : "https://github.com/binaryshrey/NotesBay/blob/main/PRIVACY.md",
+    "terms": "https://github.com/binaryshrey/NotesBay/blob/main/TERMS.md",
+    "contact": "mailto:NotesBay.official@gmail.com",
+    "featureOne" : {
+        "title": "Meet Gandalf",
+        "subTitle1": "Your Own",
+		"subTitle2": "AI Writing Assistant",
+		"avatar": "gandalf.svg",
+		"avatarMobile": "gandalf_mobile.svg",
+		"marginTop":"5rem",
+        "imgHeight":"300px",
+        "imgWidth" : "300px",
+        "marginTopMobile":"2rem",
+        "imgHeightMobile":"180px",
+        "imgWidthMobile" : "180px"
+    },
+    "featureTwo" : {
+        "title": "State of the art Language AI",
+        "subTitle1": "Improve writing quality and",
+		"subTitle2": "overall productivity",
+		"avatar": "ai_assistant.svg",
+		"avatarMobile": "ai_assistant_mobile.svg",
+		"marginTop":"2rem",
+        "imgHeight":"500px",
+        "imgWidth" : "500px",
+        "marginTopMobile":"2rem",
+        "imgHeightMobile":"300px",
+        "imgWidthMobile" : "300px"
+    },
+    "featureThree" : {
+        "title": "Organise Your Notes",
+        "subTitle1": "Jot down your ideas with",
+		"subTitle2": "The NotesBay Editor Toolbar",
+		"avatar": "editor.svg",
+		"avatarMobile": "editor_mobile.svg",
+		"marginTop":"2rem",
+        "imgHeight":"400px",
+        "imgWidth" : "400px",
+        "marginTopMobile":"2rem",
+        "imgHeightMobile":"260px",
+        "imgWidthMobile" : "260px"
+    },
+    "featureFour" : {
+        "title": "Complete Security",
+        "subTitle1": "NotesBay provides enhanced",
+		"subTitle2": "data security and encryption",
+		"avatar": "backup.svg",
+		"avatarMobile": "backup_mobile.svg",
+		"marginTop":"2rem",
+        "imgHeight":"400px",
+        "imgWidth" : "400px",
+        "marginTopMobile":"1rem",
+        "imgHeightMobile":"300px",
+        "imgWidthMobile" : "300px"
+    },
+    "featureFive" : {
+        "title": "Manage Your TODOs",
+        "subTitle1": "Track your daily progress :",
+		"subTitle2": "work, study, leisure and many more",
+		"avatar": "todos.svg",
+		"avatarMobile": "todos_mobile.svg",
+		"marginTop":"0rem",
+        "imgHeight":"500px",
+        "imgWidth" : "500px",
+        "marginTopMobile":"1rem",
+        "imgHeightMobile":"300px",
+        "imgWidthMobile" : "300px"
+    },
+    "featureSix" : {
+        "title": "Timely Reminders",
+        "subTitle1": "Never miss a deadline with",
+		"subTitle2": "notification alerts",
+		"avatarMobile": "alerts_mobile.svg",
+		"avatar": "alerts.svg",
+		"marginTop":"2rem",
+        "imgHeight":"500px",
+        "imgWidth" : "500px",
+        "marginTopMobile":"2rem",
+        "imgHeightMobile":"300px",
+        "imgWidthMobile" : "300px"
+    }
+
+}
