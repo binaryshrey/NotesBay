@@ -58,6 +58,6 @@ This policy is effective as of 2023-03-20
 
 **Contact Us**
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at notesbay.official@gmail.com.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at notesbay.app@gmail.com.
 
 This privacy policy page was created at [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
