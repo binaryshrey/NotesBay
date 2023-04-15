@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "gatsby";
 import db from "../../data/db.json";
 import { Icon } from "@mui/material";
 import Button from "@mui/material/Button";
@@ -28,12 +29,12 @@ const FooterMobile = () => {
 				</Typography>
 			</div>
 			<div style={{ marginTop: "16rem", textAlign: "center", marginBottom: "4rem" }}>
-				<a href={db.privacy} target="_blank" rel="noreferrer" style={{ textDecoration: "none", color: "#ffffff", opacity: "0.5", marginRight: "0.4rem"}}>
+				<Link to="/privacy" target="_blank" style={{ textDecoration: "none", color: "#ffffff", opacity: "0.5", marginRight: "0.4rem"}}>
           			Privacy
-        		</a>
-				<a href={db.terms} target="_blank" rel="noreferrer" style={{ textDecoration: "none", color: "#ffffff", opacity: "0.5",marginLeft: "0.4rem", marginRight: "0.4rem" }}>
+        		</Link>
+				<Link to="/terms" target="_blank" style={{ textDecoration: "none", color: "#ffffff", opacity: "0.5",marginLeft: "0.4rem", marginRight: "0.4rem" }}>
           			Terms
-        		</a>
+        		</Link>
 				<a href={db.contact} target="_blank" rel="noreferrer" style={{ textDecoration: "none", color: "#ffffff", opacity: "0.5" ,marginLeft: "0.4rem" }}>
           			Contact
         		</a>
