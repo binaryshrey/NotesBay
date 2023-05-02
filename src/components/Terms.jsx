@@ -43,9 +43,20 @@ const Terms = () => {
 
                     At some point, we may wish to update the app. The app is currently available on Android – the requirements for the system(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Zén Studio does not promise that it will always update the app so that it is relevant to you and/or works with the Android version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
 
-                    </Typography>
+                </Typography>
 
 
+                <Typography variant="body2" component="div" sx={{marginTop:'1rem'}}>
+                    <br/><br/>Fair Usage Policy
+                </Typography>
+                <Typography variant="body2" component="div" sx={{ opacity:"0.6"}}>
+                    With our free plan, each user who sign ups for the service, receives 10 FREE prompts which can be used free of cost. 
+                    Our service also provides in-app subscriptions which are of weekly, monthly and annual tenure called NotesBay - PRO. All PRO features are unlocked when a user purchases the NotesBay - PRO membership and the features stay unlocked as long as the subscription is active. For providing a better experience, we have few enforcements in place that's part of our Fair Usage Policy. 
+                    Although you can generate unlimited words on the PRO plan in NotesBay AI Tutor , we don't allow multiple users sharing the same account and generation limits (20 req/day for any user) are there to deter automated/robotic behaviour and prevent our API abuse. 
+                    Our AI engine also restricts certain kinds of use cases/usage behaviour and automatically adjusts some parameters temporarily depending on the abnormal, heavy usage pattern in a short time span. You might notice a deterioration in the quality of the output when such activity is detected by the system. 
+                    Hence, to prevent API abuse we restrict users with 20req/day while using our service. If we notice any abnormal behaviour or an attempt to violate our Fair Usage Policy, we may temporarily put your account in an inactive stage during which you may not be able to use our service or may permanently ban you from using our service. 
+                    By subscribing to our PRO plan, you agree to follow the Fair Usage Policy as mentioned while subscribing to the PRO plan.
+                </Typography>
 
 
                 <Typography variant="body2" component="div" sx={{marginTop:'1rem'}}>
