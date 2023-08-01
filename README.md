@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">  
-Introducing NotesBay 🚀 - The Ultimate Productivity App powered by 'ChatGPT and GPT-4' AI Writing Assistant that lets you effortlessly organize your notes, manage todos & boost your daily productivity via notification alerts for all your important tasks.
+Introducing NotesBay 🚀 - Your ultimate productivity app powered by 'ChatGPT and GPT-4' AI Writing Assistant that lets you effortlessly organize your notes, manage todos & boost your daily productivity via notification alerts for all your important tasks.
 NotesBay provides a deep immersive experience as it supports voice input & document scans in 5 different languages - 🇺🇸 English, 🇮🇳 Hindi, 🇨🇳 Mandarin, 🇯🇵 Japanese and 🇰🇷 Korean!
 <br/><br/><br/>
 Download the app today.
