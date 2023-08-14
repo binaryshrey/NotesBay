@@ -57,7 +57,7 @@ const PrivacyContent = () => {
                 <Typography variant="body2" component="div" sx={{ opacity:"0.6"}}>
                     With our free plan, each user who sign ups for the service, receives 10 FREE prompts which can be used free of cost. 
                     Our service also provides in-app subscriptions which are of weekly, monthly and annual tenure called NotesBay - PRO. All PRO features are unlocked when a user purchases the NotesBay - PRO membership and the features stay unlocked as long as the subscription is active. For providing a better experience, we have few enforcements in place that's part of our Fair Usage Policy. 
-                    Although you can generate unlimited words on the PRO plan in NotesBay AI Tutor , we don't allow multiple users sharing the same account and generation limits (20 req/day for any user) are there to deter automated/robotic behaviour and prevent our API abuse. 
+                    Although you can generate unlimited words on the PRO plan in NotesBay AI Tutor , we don't allow multiple users sharing the same account and generation limits are there to deter automated/robotic behaviour and prevent our API abuse. 
                     Our AI engine also restricts certain kinds of use cases/usage behaviour and automatically adjusts some parameters temporarily depending on the abnormal, heavy usage pattern in a short time span. You might notice a deterioration in the quality of the output when such activity is detected by the system. 
                     Hence, to prevent API abuse we restrict users with 20req/day while using our service. If we notice any abnormal behaviour or an attempt to violate our Fair Usage Policy, we may temporarily put your account in an inactive stage during which you may not be able to use our service or may permanently ban you from using our service. 
                     By subscribing to our PRO plan, you agree to follow the Fair Usage Policy as mentioned while subscribing to the PRO plan.
@@ -140,7 +140,7 @@ const PrivacyContent = () => {
                 </Typography>
                 <Typography variant="body2" component="div" sx={{ opacity:"0.6"}}>
                     If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at  
-                    <a href={db.contact}target="_blank" rel="noreferrer" style={{textDecoration:"None", color:"white"}}> notesbay.app@gmail.com</a>
+                    <a href={db.contact}target="_blank" rel="noreferrer" style={{textDecoration:"None", color:"white"}}> zenstudio.connect@gmail.com</a>
                     . This privacy policy page was created at 
                         <a href="https://app-privacy-policy-generator.nisrulz.com/" target="_blank" rel="noreferrer" style={{textDecoration:"None", color:"white"}}> App Privacy Policy Generator</a>
                 </Typography>
