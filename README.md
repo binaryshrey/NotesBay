@@ -1,9 +1,9 @@
 <h1 align="center">NotesBay</h1>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=dev.shreyansh.notesBay"><img alt="Google Play Store" src="https://img.shields.io/badge/Google_Play_Store-v1.0.5-%232EAD33?logo=googleplay"/></a>
+  <a href="https://play.google.com/store/apps/details?id=https://play.google.com/store/apps/details?id=dev.shreyansh.notesbay.notes.ai.chat.gpt.chatbot"><img alt="Google Play Store" src="https://img.shields.io/badge/Google_Play_Store-v1.0.0-%232EAD33?logo=googleplay"/></a>
   <a href="https://notesbay.app/"><img alt="Web" src="https://img.shields.io/badge/Web-NotesBay-%231D9BF0?logo=gatsby&logoColor=ffffff"/></a> 
-  <a href="https://play.google.com/store/apps/details?id=dev.shreyansh.notesBay"><img alt="Google Play Store" src="https://img.shields.io/badge/Downloads-100%2B-%232EAD33?logo=googleplay"/></a> <br>
+  <a href="https://play.google.com/store/apps/details?id=https://play.google.com/store/apps/details?id=dev.shreyansh.notesbay.notes.ai.chat.gpt.chatbot"><img alt="Google Play Store" src="https://img.shields.io/badge/Downloads-100%2B-%232EAD33?logo=googleplay"/></a> <br>
    
 </p>
 
@@ -13,7 +13,8 @@ NotesBay provides a deep immersive experience as it supports voice input & docum
 <br/><br/><br/>
 Download the app today.
 <br/>
-   <a href='https://play.google.com/store/apps/details?id=dev.shreyansh.notesBay&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="400"/></a>
+   <a href='https://play.google.com/store/apps/details?id=https://play.google.com/store/apps/details?id=dev.shreyansh.notesbay.notes.ai.chat.gpt.chatbot&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="400"/></a> <br/>
+<a href='https://forms.fillout.com/t/qdxZs8cb11us'><img alt='Join Waitlist @App-Store' src='https://raw.githubusercontent.com/binaryshrey/Avatars-AI/main/assets/app-store.png' width="350"/></a>
 </p>
 
 <br/>
@@ -22,7 +23,7 @@ Download the app today.
 
 <br/>
 
-![App Features](https://raw.githubusercontent.com/binaryshrey/NotesBay/main/static/app.png)
+![App Features](https://raw.githubusercontent.com/binaryshrey/NotesBay/main/static/new_features.png)
 
 <br/>
    
