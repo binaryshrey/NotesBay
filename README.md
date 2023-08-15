@@ -13,7 +13,7 @@ NotesBay provides a deep immersive experience as it supports voice input & docum
 <br/><br/><br/>
 Download the app today.
 <br/>
-   <a href='https://play.google.com/store/apps/details?id=https://play.google.com/store/apps/details?id=dev.shreyansh.notesbay.notes.ai.chat.gpt.chatbot&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="400"/></a> <br/>
+   <a href='https://play.google.com/store/apps/details?id=dev.shreyansh.notesbay.notes.ai.chat.gpt.chatbot'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="400"/></a> <br/>
 <a href='https://forms.fillout.com/t/qdxZs8cb11us'><img alt='Join Waitlist @App-Store' src='https://raw.githubusercontent.com/binaryshrey/Avatars-AI/main/assets/app-store.png' width="350"/></a>
 </p>
 
