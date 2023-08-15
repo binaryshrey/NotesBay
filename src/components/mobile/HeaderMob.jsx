@@ -41,9 +41,11 @@ const HeaderMob = () => {
 	return (
 		<>
 			<Box sx={{ textAlign: "center" }}>
-				<Box sx={{  height: "60vh" }}>
-					<img alt="header" src="mobile_header.svg" height="100%"  />
-				</Box>
+				<div data-sal="slide-down" data-sal-delay="300" data-sal-easing="ease">
+					<Box sx={{  height: "60vh" }}>
+						<img alt="header" src="mobile_header.svg" height="100%"  />
+					</Box>
+				</div>
 				<Typography variant="h4" component="div" sx={{ flexGrow: 1, marginTop: "4rem", fontWeight: "500"}} >
 						{db.appName}
 				</Typography>

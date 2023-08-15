@@ -58,7 +58,7 @@ const Header = () => {
 								Download Now
 						</Button>
         			</a>
-					<Button variant="outlined" sx={{ textTransform: "none", fontFamily: `"Helvetica Neue", "Roboto", "sans-serif"`, marginTop: "6rem", marginLeft:'3rem', color: "#ffffff",
+					<Button variant="outlined" sx={{ textTransform: "none", fontFamily: `"Helvetica Neue", "Roboto", "sans-serif"`, marginTop: "6rem", marginLeft:'3.8rem', color: "#ffffff",
 						borderRadius: "24px", borderColor:'#a4a4a4', paddingRight: "24px", paddingLeft: "32px",":hover" : {borderColor:'#ffffff'}}} color="secondary"
 						startIcon={AppStoreIcon} onClick={handleOpen}>
 							&nbsp;&nbsp; Join Waitlist
@@ -75,7 +75,9 @@ const Header = () => {
 					</Modal>
 				</Box>
 				<Box sx={{ width: "50vw", height: "80vh", marginRight: "6rem", display: "flex", justifyContent: "flex-end" }}>
-					<img alt="play_store" src="header.svg" height="100%"  />
+					<div data-sal="slide-down" data-sal-delay="300" data-sal-easing="ease">
+						<img alt="play_store" src="header.svg" height="100%"  />
+					</div>
 				</Box>
 			</Box>
 		</>

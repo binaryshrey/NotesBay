@@ -14,7 +14,9 @@ const SubHeader = () => {
 						{db.tagline}
 					</Typography>
 					<div style={{ marginTop: "4rem" }}>
+					<div data-sal="slide-up" data-sal-delay="300" data-sal-easing="ease">
 						<img alt="play_store" src="banner.svg" width={900} height={440}/>
+					</div>
 					</div>
 				</Box>
 			</Card>

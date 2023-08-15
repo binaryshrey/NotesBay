@@ -18,8 +18,10 @@ const FeaturesMobile = ({ feature }) => {
                 <Typography variant="subtitle1" component="div" display="block" sx={{ flexGrow: 1, paddingLeft: "2rem" }}>
                     {subTitle2}
                 </Typography>
-                <div style={{ marginTop: marginTopMobile, textAlign: "center" }}>
-                    <img alt="feature" src={avatarMobile} height={imgHeightMobile} width={imgWidthMobile} />
+				<div data-sal="slide-up" data-sal-delay="300" data-sal-easing="ease">
+                    <div style={{ marginTop: marginTopMobile, textAlign: "center" }}>
+                        <img alt="feature" src={avatarMobile} height={imgHeightMobile} width={imgWidthMobile} />
+                    </div>
                 </div>
             </Box>
 		</Card>

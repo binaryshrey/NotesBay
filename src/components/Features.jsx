@@ -15,8 +15,10 @@ const Features = ({ feature }) => {
 			<Typography variant="h4" component="div" display="block" sx={{ flexGrow: 1, paddingLeft: "4rem" }}>
 				{subTitle2}
 			</Typography>
-			<div style={{ marginTop: marginTop, textAlign: "center" }}>
-				<img alt="feature" src={avatar} height={imgHeight} width={imgWidth} />
+			<div data-sal="slide-up" data-sal-delay="300" data-sal-easing="ease">
+				<div style={{ marginTop: marginTop, textAlign: "center" }}>
+					<img alt="feature" src={avatar} height={imgHeight} width={imgWidth} />
+				</div>
 			</div>
 		</Card>
 	);
